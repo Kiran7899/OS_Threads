@@ -8,6 +8,5 @@ public class Main {
         Thread thread = new Thread(printNumber);
         //printNumber.run();
         thread.start();
-
     }
 }
