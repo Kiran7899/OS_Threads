@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39767d80-8d1e-427a-8481-1739032a4611" name="Changes" comment="Thread using tasks">
-      <change afterPath="$PROJECT_DIR$/src/PrintNumbers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintNumbers/PrintOnetoHundred.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread_Task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread_Task/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="39767d80-8d1e-427a-8481-1739032a4611" name="Changes" comment="Print 1 to 100 using 100 threads" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659520377516</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Print 1 to 100 using 100 threads">
+      <created>1659521405493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659521405493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Thread using tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread using tasks" />
+    <MESSAGE value="Print 1 to 100 using 100 threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print 1 to 100 using 100 threads" />
   </component>
 </project>
